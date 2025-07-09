@@ -11,12 +11,4 @@ Favorite food:  Ice-Cream
 Favorite drink: Snow-Jasmine 
 Favorite Song: Torches -aimer  
 Favorite Book: The Hobbit ;)
-=======
-Name: Cathy
-Major: Bioinformatics
-College: Warren
 
-Favorite snack: chocolate icecream
-Favorite drink: milk tea
-
->>>>>>> 0327766b4c7cc9929b4674737aea770c23f51780
